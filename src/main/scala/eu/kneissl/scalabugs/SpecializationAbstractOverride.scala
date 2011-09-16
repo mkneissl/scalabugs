@@ -18,7 +18,9 @@
 package eu.kneissl.scalabugs
 
 /**
+ * Reproduces SI-4996 .
  * 
+ * [[https://issues.scala-lang.org/browse/SI-4996  SI-4996]]
  */
 object SpecializationAbstractOverride {
 
